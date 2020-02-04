@@ -1,7 +1,7 @@
 # CV
 
 * Name: Viktorov Nikita.
-* Contact Info: telegram: <a href="https://t.me/NikitaViktorov">NikitaViktorov</a>.
+* Contact Info: telegram: <a href="https://t.me/NikitaViktorov">NikitaViktorov</a>, mail: nikita.viktorov21@gmail.com.
 * Summary: I started learning programming recently.
    I quickly understand, I easily find the information I need, I like to study.
 * Skills:
