@@ -6,6 +6,7 @@
    I quick understand, I easily find the information I need, I like to study.
 * Skils:
   * HTML; 
+  * CSS;
   * C++ basics;
   * Git basics.
 * Experience: I had C ++ labs at the university.
